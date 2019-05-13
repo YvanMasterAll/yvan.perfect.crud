@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = ".build/checkouts/Perfect-CRUD.git-4942933769530765879/Sources/PerfectCRUD/Select.swift"
+            timestampString = "579229017.164992"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "next()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = ".build/checkouts/Perfect-CRUD.git-4942933769530765879/Sources/PerfectCRUD/Select.swift"
+            timestampString = "579229017.165409"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "nextElement()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Fluent/PerfectCRUD/Coding/CodingKeyPaths.swift"
+            timestampString = "579424465.839607"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "322"
+            endingLineNumber = "322"
+            landmarkName = "getKeyPathName(fromValue:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fluent.CRUDKeyPathsDecoder.(getKeyPathName in _C0EEC30D4933367D8B4EA09870CB8039)(fromValue: Any) throws -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Fluent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiqiang/Work/Workplace/Swift/Fluent/Test_Postgres2/Sources/Fluent/PerfectCRUD/Coding/CodingKeyPaths.swift"
+                  timestampString = "579424466.2788481"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "322"
+                  endingLineNumber = "322"
+                  offsetFromSymbolStart = "12705">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fluent.CRUDKeyPathsDecoder.(getKeyPathName in _C0EEC30D4933367D8B4EA09870CB8039)(fromValue: Any) throws -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Fluent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiqiang/Work/Workplace/Swift/Fluent/Test_Postgres2/Sources/Fluent/PerfectCRUD/Coding/CodingKeyPaths.swift"
+                  timestampString = "579424466.281265"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "322"
+                  endingLineNumber = "322"
+                  offsetFromSymbolStart = "12864">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
